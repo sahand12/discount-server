@@ -1,0 +1,25 @@
+b-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+.DS_Store
+.idea/*
+.vscode
+*.im
+*.sublime-*
+projectFilesBackup
+
+npm-debug.log
+node_modules
+bower_components
+.bowerrc
+
+built
+
+# Coverage Reports
+coverage.html
